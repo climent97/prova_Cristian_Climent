@@ -16,7 +16,7 @@
 		<title>Ejercicio Markdown</title>
 	</head>
 	<body>
-		**Base basica de html5**
+		**Estructura basica de html5**
 	</body>
 </html>
 ```
