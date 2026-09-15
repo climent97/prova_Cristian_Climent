@@ -14,5 +14,9 @@ El següent text esta en ***negreta y cursiva***
 [![GitHub](https://portal.edu.gva.es/iesjaumeeljust/wp-content/uploads/sites/33/2025/02/logo_header.png)](https://portal.edu.gva.es/aules/)
 
 ### Imatge de exemple guardada al repositori
+<<<<<<< HEAD
 ![Imatge del repositori](/img/img-markdown.png)
+=======
+![Imatge del repositori](./img/ordenadores.webp)
+>>>>>>> efa7d7a15e849f15c4eb7d8a16868b970fe31b29
 
